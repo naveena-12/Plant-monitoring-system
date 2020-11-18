@@ -1,2 +1,2 @@
 # Plant-monitoring-system
-Monitors soil moisture contenr
+Monitors soil moisture content
